@@ -13,7 +13,7 @@
   <a href="https://designpbs.github.io/blog" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/>
   </a>
-  <a href="https://designpbs.github.io/">
+  <a href="https://designpbs.github.io/" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30px">
   </a>
   <a href="https://www.linkedin.com/in/pedro-baiocchi/" target="_blank">
