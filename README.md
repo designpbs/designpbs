@@ -10,9 +10,6 @@
   <a href="https://designpbs.github.io/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/design.pbs-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
   </a>
-  <a href="https://designpbs.github.io/blog" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/>
-  </a>
   <a href="https://github.com/designpbs" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30px">
   </a>
@@ -22,9 +19,6 @@
   <a href="https://twitter.com/design_pbs" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/>
   </a
-  <a href="https://www.instagram.com/design.pbs/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/>
-  </a>
 </p>
 
 <br/>
