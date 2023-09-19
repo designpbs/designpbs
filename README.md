@@ -10,7 +10,7 @@
   <a href="https://designpbs.github.io/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/design.pbs-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
   </a>
-  <a href="https://github.com/designpbs" target="_blank">
+  <a href="https://www.designpbs.com" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30px">
   </a>
   <a href="https://www.linkedin.com/in/pedro-baiocchi/" target="_blank">
@@ -25,7 +25,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 💎 Check out my **[My Website](https://designpbs.github.io/)**
+- 💎 Check out my **[My Website](https://www.designpbs.com/)**
 - 🔭 I’m currently working on **"Away for a While"**
 - 🌱 I’m currently learning **Unity** and **JavaScript**
 <!--
